@@ -1,0 +1,25 @@
+/* Style the about page content */
+.about-me {
+    color:#001aff
+	margin: 50px;
+	padding: 20px;
+	background-color: #F7F7F7;
+	border: 1px solid #E5E5E5;
+	box-shadow: 0 0 5px #E5E5E5;
+}
+
+/* Style the headings on the about page */
+.about-me h3 {
+	margin-top: 40px;
+	color: #001aff; /* a golden color */
+}
+
+/* Style the lists on the about page */
+.about-me ol, .about-me ul {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.about-me li {
+	line-height: 1.5;
+}

@@ -1,0 +1,46 @@
+/* Education section */
+#education {
+    background-color: #f8d6ac;
+    padding: 50px;
+  }
+  
+  .education-item {
+    display: flex;
+    margin-bottom: 50px;
+  }
+  
+  .education-year {
+    background-color: #fcbf49;
+    border-radius: 100%;
+    width: 100px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+  }
+  
+  .education-info {
+    flex: 1;
+  }
+  
+  .education-info h3 {
+    color: #2d4059;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .education-info h4 {
+    color: #2d4059;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .education-info p {
+    color: #2d4059;
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  
